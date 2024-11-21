@@ -137,9 +137,9 @@ def popularConsumoTarifas():
 
 #Rode o arquivo chamando cada funcao por vez
 
-#popularPaises()
+popularPaises()
 #popularRegioes()
 #popularAno()
 #popularPaisAno()
-popularConsumoTarifas()
+#popularConsumoTarifas()
 
